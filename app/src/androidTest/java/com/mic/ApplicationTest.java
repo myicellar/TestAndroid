@@ -11,5 +11,6 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
         super(Application.class);
         String a = "b";
         String c = "d";
+        String e = "d";
     }
 }
